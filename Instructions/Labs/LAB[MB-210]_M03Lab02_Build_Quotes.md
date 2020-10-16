@@ -78,7 +78,7 @@ In this task, you will create a Quote from the Opportunity you created in Task
 5.  The Quote form will open, and relevant information will be copied from the
     Opportunity.
 
-6.  Select the **Quote Lines** tab. Examine the **Products** sub-grid and make sure products and their
+6.  Examine the **Products** sub-grid and make sure products and their
     quantities look as you expected. You can change the quantities and discount
     the price of each line item.
 
