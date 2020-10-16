@@ -39,7 +39,7 @@ Exercise 1 – Manage Customers
 In this task, you will create three leads, one without company information and
 two with company information.
 
-1.  Go to your **Dynamics 365 Sales Hub** application.
+1.  Click on your environment URL and select **Dynamics 365 Sales Hub** application.
 
 2. Navigate to the left menu and explore the options available.
 
