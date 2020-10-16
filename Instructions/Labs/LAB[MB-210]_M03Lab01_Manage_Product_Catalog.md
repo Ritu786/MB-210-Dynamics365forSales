@@ -43,7 +43,7 @@ In this task, you will create unit groups for the speakers.
 7.  Click **Related** and select **Units**.
 
 8.  You will find that you only have the default unit **Each** now; you will add
-    three more units. Click **+ Add New Unit**.
+    three more units. Click **+ New Unit**.
 
 9.  Enter **Speaker** for **Name**, **1** for **Quantity**, select **Each** for
     **Base Unit**, and click **Save & Create New** by selecting the carrot to the right of the **Save and Close** button.
@@ -115,8 +115,7 @@ In this task, you will create products.
 
 7.  Click **+ New Price List Item**.
 
-8.  Select **[my prefix] Top D. Electronic** for **Price List**, select **Quantity
-    Discount** for **[my prefix] Discount List**, select **Whole** for **Quantity Selling
+8.  Select **[my prefix] Top D. Electronic** for **Price List**, select **[my prefix] Discount List** for **Quantity Discount** , select **Whole** for **Quantity Selling
     Option**, and select the **Pricing Information** tab.
 
 9.  Enter **150** for Amount and click **Save and Close**.
@@ -130,7 +129,7 @@ In this task, you will create products.
 13. Click **Add Product**.
 
 14. Enter **[my prefix] DX Power Supply** for **Name**, enter **[myprefix]4321** for **Product
-    Number**, select **Default Unit** for **Unit Group**, select **Primary
+    ID**, select **Default Unit** for **Unit Group**, select **Primary
     Unit** for **Default Unit**, enter **2** for **Decimals Supported**, and
     click **Save**.
 
