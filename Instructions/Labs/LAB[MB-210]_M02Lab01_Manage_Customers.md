@@ -39,7 +39,7 @@ Exercise 1 – Manage Customers
 In this task, you will create three leads, one without company information and
 two with company information.
 
-1.  Click on your environment URL and select **Dynamics 365 Sales Hub** application.
+1.  Select the created environment and click on your environment URL and then select **Sales Hub** application.
 
 2. Navigate to the left menu and explore the options available.
 
@@ -122,7 +122,7 @@ created when a lead goes through the qualification process.
 
 1.  Go to your **Sales Hub**,application.
 
-2.  Click on the **Site Map** button and select **Leads**.
+2.  Select **Leads** under **Sales**
 
 3.  The Lead you disqualified is no longer in the **My Open Leads** view. Change
     the View to **Closed Leads**.
