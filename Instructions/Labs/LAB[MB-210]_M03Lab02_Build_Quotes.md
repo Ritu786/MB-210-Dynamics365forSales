@@ -46,13 +46,13 @@ In this task, you will create an Opportunity and add Products Line Items.
 8.  Above the subgrid, click **+ Add Product.**
 
 9.  Select **[my prefix] DX Power Supply** for **Existing Product**, enter **2** for
-    **Quantity**, and click **Save & Create New**.
+    **Quantity**, select **Primary Unit** for **Unit** and click **Save & Create New**.
 
 10. Click **+ Add Product** again. Select **[my prefix] Top D. Comm System** for **Existing Product**, enter **1** for
-    **Quantity** and click **Save & close**.
+    **Quantity**, select **Primary Unit** for **Unit** and click **Save & close**.
 
 11. Click **+ Add Product** again. Select **[my prefix] Top D. HiFi** for **Existing Product**, enter **1** for
-    **Quantity** and click **Save & close**.
+    **Quantity**, select **Primary Unit** for **Unit** and click **Save & close**.
 
 12. You will have three products in the sub-grid. Double click on the **[my prefix] Top D. HiFi** product.
 
@@ -84,7 +84,7 @@ In this task, you will create a Quote from the Opportunity you created in Task
 
 11. Click **Activate Quote**.
 
-12. Click **Create PDF** located on the command bar and select **Print Quote for Customer**. Click **Download.**
+12. Click **Export to PDF** located on the command bar and select **Print Quote for Customer**. Click **Download.**
 
 13. Open the generated document and see what the Quote looks like.
 
