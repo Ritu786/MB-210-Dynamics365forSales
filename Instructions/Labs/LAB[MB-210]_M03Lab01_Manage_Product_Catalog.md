@@ -108,14 +108,14 @@ In this task, you will create products.
 
 5.  Enter **[my prefix] Top D. HiFi** for **Name**, enter **[myprefix]1234** for **Product ID**,
     select **[my prefix] Speakers** for **Unit Group** (you can easily find it by typing in your prefix), select **Speaker** for **Default
-    Unit**, enter **2** for **Decimals Supported**, select **Products** for
+    Unit**, enter **2** for **Decimals Supported**, select **Default Subject** for
     **Subject** (you will need to expand Query to select it), and click **Save**.
 
 6.  Select the **Additional Details** tab.
 
 7.  Click **+ New Price List Item**.
 
-8.  Select **[my prefix] Top D. Electronic** for **Price List**, select **[my prefix] Discount List** for **Quantity Discount** , select **Whole** for **Quantity Selling
+8.  Select **[my prefix] Top D. Electronic** for **Price List**, Select **[my prefix] Quantity Discount** for **Discount List**, select **Whole** for **Quantity Selling
     Option**, and select the **Pricing Information** tab.
 
 9.  Enter **150** for Amount and click **Save and Close**.
