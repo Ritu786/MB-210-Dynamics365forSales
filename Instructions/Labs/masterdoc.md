@@ -17,15 +17,15 @@
         "Order": 3
       },
 	  {
-        "RawFilePath": "https://github.com/Ritu786/MB-210-Dynamics365forSales/blob/master/Instructions/Labs/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MB-210-Dynamics365forSales/master/Instructions/Labs/LAB%5BMB-210%5D_M03Lab01_Manage_Product_Catalog.md",
         "Order": 4
       },
 	  {
-        "RawFilePath": "https://github.com/Ritu786/MB-210-Dynamics365forSales/blob/master/Instructions/Labs/LAB%5BMB-210%5D_M03Lab02_Build_Quotes.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MB-210-Dynamics365forSales/master/Instructions/Labs/LAB%5BMB-210%5D_M03Lab02_Build_Quotes.md",
         "Order": 5
       },
 	  {
-        "RawFilePath": "https://github.com/Ritu786/MB-210-Dynamics365forSales/blob/master/Instructions/Labs/LAB%5BMB-210%5D_M03Lab03_Orders_and_Invoices.md",
+        "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MB-210-Dynamics365forSales/master/Instructions/Labs/LAB%5BMB-210%5D_M03Lab03_Orders_and_Invoices.md",
         "Order": 6
       }
     ]
